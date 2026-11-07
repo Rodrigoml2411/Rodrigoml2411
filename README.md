@@ -25,19 +25,9 @@
 
 <br>
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigoml2411&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoml2411&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
 ### 📫 ¿Cómo contactarme?
 - ✉️ **Gmail:** rodrigoml24112004@gmail.com
 - 🌐 **GitHub:** [@Rodrigoml2411](https://github.com/Rodrigoml2411)
 - 💬 **Instagram:** [Rodrigo_lucero_2411](https://www.instagram.com/rodrigo_lucero_2411/)
+
+<br>  
